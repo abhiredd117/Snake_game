@@ -1,2 +1,2 @@
 # Snake_game
-snak game developed in p5.js
+snake game developed in p5.js
